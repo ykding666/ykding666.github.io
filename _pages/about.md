@@ -46,7 +46,7 @@ I am always open to academic discussions and potential collaborations. Feel free
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**Cloth-Changing Person Re-identification: A Survey on Challenges, Methods, and Frontier Advances**](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.177203263.35399485/v1)
+[**Cloth-Changing Person Re-identification: A Survey on Challenges, Methods, and Frontier Advances**](https://www.techrxiv.org/users/1029727/articles/1389523/master/file/data/pami_review/pami_review.pdf)
 
 **Yongkang Ding**, Zi Ye, Liyan Zhang
 
