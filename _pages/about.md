@@ -99,7 +99,7 @@ I am always open to academic discussions and potential collaborations. Feel free
 - *2024.12*: &nbsp;🥇 **National Scholarship for Graduate Students**.
 
 
-# 📖 Education
+# 📖 Educations
 - *2025.09 - Present*: &nbsp; **Ph.D. in Computer Science and Technology**, Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China.
 - *2022.09 - 2025.06*: &nbsp; **M.S. in Computer Technology**, Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China.
 - *2018.09 - 2022.06*: &nbsp; **B.S. in Network Engineering**, Anhui Agricultural University (AHAU), Hefei, China.
