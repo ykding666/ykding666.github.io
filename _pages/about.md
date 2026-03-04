@@ -60,12 +60,12 @@ I am always open to academic discussions and potential collaborations. Feel free
 </div>
 
 <div id="bibtex-ccreid" style="display:none;">
-@article{ccreid-review,
+@article{ding2026cloth,
   title={Cloth-Changing Person Re-identification: A Survey on Challenges, Methods, and Frontier Advances},
   author={Ding, Yongkang and Ye, Zi and Zhang, Liyan},
-  journal={TechRxiv},
+  journal={Authorea Preprints},
   year={2026},
-  doi={10.36227/techrxiv.177203263.35399485/v1}
+  publisher={Authorea}
 }
 </div>
 
