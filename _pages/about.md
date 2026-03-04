@@ -94,14 +94,15 @@ I am always open to academic discussions and potential collaborations. Feel free
 
 
 # 🎖 Honors and Awards
-- *2018.06*: &nbsp;🎉 **Outstanding Graduate of Anhui Province** (安徽省优秀毕业生).
-- *2021.12*: &nbsp;🥇 **National Scholarship for Undergraduate Students** (本科生国家奖学金).
-- *2024.12*: &nbsp;🥇 **National Scholarship for Graduate Students** (研究生国家奖学金).
+- *2018.06*: &nbsp;🎉 **Outstanding Graduate of Anhui Province**.
+- *2021.12*: &nbsp;🥇 **National Scholarship for Undergraduate Students**.
+- *2024.12*: &nbsp;🥇 **National Scholarship for Graduate Students**.
 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Education
+- *2025.09 - Present*: &nbsp; **Ph.D. in Computer Science and Technology**, Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China.
+- *2022.09 - 2025.06*: &nbsp; **M.S. in Computer Technology**, Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China.
+- *2018.09 - 2022.06*: &nbsp; **B.S. in Network Engineering**, Anhui Agricultural University (AHAU), Hefei, China.
 
 <!--
 # 💬 Invited Talks
