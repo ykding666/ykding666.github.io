@@ -52,7 +52,7 @@ I am always open to academic discussions and potential collaborations. Feel free
 
 [**[TechRxiv]**](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177203263.35399485/v1) [**[Paper PDF]**](https://d197for5662m48.cloudfront.net/documents/publicationstatus/309102/preprint_pdf/b10d4cb52a895005261e6abdfa710a0e.pdf) [**[BibTeX]**](#bibtex-ccreid)
 
-- This is the **first systematic and comprehensive survey** on Cloth-Changing Person Re-identification (CCRe-ID).
+- This is the **first systematic and comprehensive survey** on Cloth-Changing Person Re-identification (CC-ReID).
 - We provide a hierarchical taxonomy of 100+ methods, introduce standard benchmarks, and discuss 8+ future research directions.
 - *TechRxiv / Authorea Preprints*, 2026.
 
