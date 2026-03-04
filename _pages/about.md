@@ -47,24 +47,27 @@ I am always open to academic discussions and potential collaborations. Feel free
 </div>
 </div>
 
+
+
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">Survey / Preprint</div>
-      <img src='images/survey_taxonomy.png' alt="CCRe-ID Survey" width="100%">
+      <img src='images/500x300.png' alt="CCRe-ID Survey" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**Cloth-Changing Person Re-identification: A Survey on Challenges, Methods, and Frontier Advances**](https://www.techrxiv.org/path/to/your/pdf_file.pdf)
+[**Cloth-Changing Person Re-identification: A Survey on Challenges, Methods, and Frontier Advances**](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.177203263.35399485/v1)
 
 **Yongkang Ding**, Zi Ye, Liyan Zhang
 
-[**[Preprint]**](https://www.techrxiv.org/doi/...) [**[Paper PDF]**](https://www.techrxiv.org/path/to/your/pdf_file.pdf) [**[BibTeX]**](#bibtex-ccreid)
+[**[TechRxiv]**](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177203263.35399485/v1) [**[Paper PDF]**](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.177203263.35399485/v1) [**[BibTeX]**](#bibtex-ccreid)
 
 - This is the **first systematic and comprehensive survey** on Cloth-Changing Person Re-identification (CCRe-ID).
-- We provide a hierarchical taxonomy of existing methods, introduce standard benchmarks, and discuss future research directions for the community.
-- *Authorea Preprints / TechRxiv*, 2026.
+- We provide a hierarchical taxonomy of 100+ methods, introduce standard benchmarks, and discuss 8+ future research directions.
+- *TechRxiv / Authorea Preprints*, 2026.
 
 </div>
 </div>
@@ -73,9 +76,9 @@ I am always open to academic discussions and potential collaborations. Feel free
 @article{ccreid-review,
   title={Cloth-Changing Person Re-identification: A Survey on Challenges, Methods, and Frontier Advances},
   author={Ding, Yongkang and Ye, Zi and Zhang, Liyan},
-  journal={Authorea Preprints},
+  journal={TechRxiv},
   year={2026},
-  publisher={Authorea}
+  doi={10.36227/techrxiv.177203263.35399485/v1}
 }
 </div>
 
