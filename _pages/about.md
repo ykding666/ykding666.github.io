@@ -88,17 +88,17 @@ I am always open to academic discussions and potential collaborations. Feel free
 [**[Link]**](https://doi.org/10.1109/JIOT.2025.3581183)
 
 - This work introduces a dual-driven framework that leverages **person parsing** and **textual guidance** to enhance feature robustness against clothing changes.
-- *IEEE Internet of Things Journal* (**IF: 8.2**, Q1), 2025.
+- *IEEE Internet of Things Journal* (**IF: 8.9**, Q1), 2025.
 
 </div>
 </div>
 
 
 
-- [**Decoupling feature-driven and multimodal fusion attention for clothing-changing person re-identification**](https://link.springer.com/content/pdf/10.1007/s10462-025-11250-6.pdf), **Yongkang Ding**, Xiaoyin Wang, Hao Yuan, Meina Qu, Xiangzhou Jian, *Artificial Intelligence Review*, 2025.
-- [**FA-ReID: Feature alignment with adversarial learning for clothing-changing person re-identification**](https://www.sciencedirect.com/science/article/pii/S0925231225029091), **Yongkang Ding**, Yuxiang Wang, Yina Jian, Chang Yu, Ke Tian, Zi Ye, Gaozhe Jiang, *Neurocomputing*, 2025.
-- [**Attention-enhanced multimodal feature fusion network for clothes-changing person re-identification**](https://link.springer.com/content/pdf/10.1007/s40747-024-01646-2.pdf), **Yongkang Ding**, Jiechen Li, Hao Wang, Ziang Liu, Anqi Wang, *Complex & Intelligent Systems*, 2025.
-- [**Multidimensional semantic disentanglement network for clothes-changing person re-identification**](https://dl.acm.org/doi/pdf/10.1145/3652583.3658037), **Yongkang Ding**, Anqi Wang, Liyan Zhang, *Proceedings of the 2024 International Conference on Multimedia Retrieval (ICMR)*, pp. 1025-1033, 2024.
+- [**Decoupling feature-driven and multimodal fusion attention for clothing-changing person re-identification**](https://link.springer.com/content/pdf/10.1007/s10462-025-11250-6.pdf), **Yongkang Ding**, Xiaoyin Wang, Hao Yuan, Meina Qu, Xiangzhou Jian, *Artificial Intelligence Review* (**IF: 13.9**, Q1),  2025.
+- [**FA-ReID: Feature alignment with adversarial learning for clothing-changing person re-identification**](https://www.sciencedirect.com/science/article/pii/S0925231225029091), **Yongkang Ding**, Yuxiang Wang, Yina Jian, Chang Yu, Ke Tian, Zi Ye, Gaozhe Jiang, *Neurocomputing* (**IF: 6.5**, Q1), 2025.
+- [**Attention-enhanced multimodal feature fusion network for clothes-changing person re-identification**](https://link.springer.com/content/pdf/10.1007/s40747-024-01646-2.pdf), **Yongkang Ding**, Jiechen Li, Hao Wang, Ziang Liu, Anqi Wang, *Complex & Intelligent Systems* (**IF: 4.6**, Q1), 2025.
+- [**Multidimensional semantic disentanglement network for clothes-changing person re-identification**](https://dl.acm.org/doi/pdf/10.1145/3652583.3658037), **Yongkang Ding**, Anqi Wang, Liyan Zhang, *Proceedings of the 2024 International Conference on Multimedia Retrieval (ICMR)* (CCF B), pp. 1025-1033, 2024.
 
 
 
