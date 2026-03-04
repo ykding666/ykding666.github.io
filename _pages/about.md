@@ -76,7 +76,7 @@ I am always open to academic discussions and potential collaborations. Feel free
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE IoT-J 2025</div>
-      <img src='images/iotj_paper_thumb.png' alt="IoT-J Paper" width="100%">
+      <img src='images/iotj.png' alt="IoT-J Paper" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
