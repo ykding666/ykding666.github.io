@@ -95,8 +95,9 @@ I am always open to academic discussions and potential collaborations. Feel free
 
 # 🎖 Honors and Awards
 - *2018.06*: &nbsp;🎉 **Outstanding Graduate of Anhui Province** (安徽省优秀毕业生).
-- *2021.12*: &nbsp;🥇 **National Scholarship for Graduate Students** (研究生国家奖学金).
-- *2024.12*: &nbsp;🥇 **National Scholarship for Undergraduate Students** (本科生国家奖学金).
+- *2021.12*: &nbsp;🥇 **National Scholarship for Undergraduate Students** (本科生国家奖学金).
+- *2024.12*: &nbsp;🥇 **National Scholarship for Graduate Students** (研究生国家奖学金).
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
