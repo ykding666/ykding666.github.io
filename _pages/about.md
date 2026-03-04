@@ -30,7 +30,7 @@ I am always open to academic discussions and potential collaborations. Feel free
 
 
 # 🔥 News
-- *2026.03*: &nbsp;🎉🎉 [**New Paper**] Our latest work is accepted by IEEE Transactions on Information Forensics and Security (T-IFS) (CCF A, IF: 13.7). 
+- *2026.03*: &nbsp;🎉🎉 [**New Paper**] Our latest work is accepted by IEEE Transactions on Information Forensics and Security (T-IFS) (CCF A, IF: 8.0). 
 - *2026.02*: &nbsp;🎉🎉 [**Survey**] We released the **first systematic survey** on Cloth-Changing Person Re-Identification. 
 
 # 📝 Publications 
@@ -46,6 +46,41 @@ I am always open to academic discussions and potential collaborations. Feel free
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Survey / Preprint</div>
+      <img src='images/survey_taxonomy.png' alt="CCRe-ID Survey" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Cloth-Changing Person Re-identification: A Survey on Challenges, Methods, and Frontier Advances**](https://www.techrxiv.org/path/to/your/pdf_file.pdf)
+
+**Yongkang Ding**, Zi Ye, Liyan Zhang
+
+[**[Preprint]**](https://www.techrxiv.org/doi/...) [**[Paper PDF]**](https://www.techrxiv.org/path/to/your/pdf_file.pdf) [**[BibTeX]**](#bibtex-ccreid)
+
+- This is the **first systematic and comprehensive survey** on Cloth-Changing Person Re-identification (CCRe-ID).
+- We provide a hierarchical taxonomy of existing methods, introduce standard benchmarks, and discuss future research directions for the community.
+- *Authorea Preprints / TechRxiv*, 2026.
+
+</div>
+</div>
+
+<div id="bibtex-ccreid" style="display:none;">
+@article{ccreid-review,
+  title={Cloth-Changing Person Re-identification: A Survey on Challenges, Methods, and Frontier Advances},
+  author={Ding, Yongkang and Ye, Zi and Zhang, Liyan},
+  journal={Authorea Preprints},
+  year={2026},
+  publisher={Authorea}
+}
+</div>
+
+
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
