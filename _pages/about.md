@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-#🙋‍♂️ About Me
+# 🧐 About Me
 Welcome to my academic homepage!
 I am currently a Ph.D. student at the **Nanjing University of Aeronautics and Astronautics (NUAA)**, majoring in Computer Science and Technology. I am fortunate to be supervised by **Prof. Liyan Zhang**.
 My research primarily focuses on **Computer Vision**, with a specific interest in **Cloth-Changing Person Re-identification (CC-ReID)**. I am passionate about solving the challenges of identifying individuals across different camera views when they undergo clothing changes.
