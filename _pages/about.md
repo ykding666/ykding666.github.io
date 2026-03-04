@@ -59,11 +59,11 @@ I am always open to academic discussions and potential collaborations. Feel free
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**Cloth-Changing Person Re-identification: A Survey on Challenges, Methods, and Frontier Advances**](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.177203263.35399485/v1)
+[**Cloth-Changing Person Re-identification: A Survey on Challenges, Methods, and Frontier Advances**](https://d197for5662m48.cloudfront.net/documents/publicationstatus/309102/preprint_pdf/b10d4cb52a895005261e6abdfa710a0e.pdf)
 
 **Yongkang Ding**, Zi Ye, Liyan Zhang
 
-[**[TechRxiv]**](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177203263.35399485/v1) [**[Paper PDF]**](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.177203263.35399485/v1) [**[BibTeX]**](#bibtex-ccreid)
+[**[TechRxiv]**](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177203263.35399485/v1) [**[Paper PDF]**](https://d197for5662m48.cloudfront.net/documents/publicationstatus/309102/preprint_pdf/b10d4cb52a895005261e6abdfa710a0e.pdf) [**[BibTeX]**](#bibtex-ccreid)
 
 - This is the **first systematic and comprehensive survey** on Cloth-Changing Person Re-identification (CCRe-ID).
 - We provide a hierarchical taxonomy of 100+ methods, introduce standard benchmarks, and discuss 8+ future research directions.
@@ -85,7 +85,13 @@ I am always open to academic discussions and potential collaborations. Feel free
 
 
 
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+
+
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
