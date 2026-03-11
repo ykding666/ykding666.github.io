@@ -29,7 +29,7 @@ I am always open to academic discussions and potential collaborations. Feel free
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 
-# 🔥 News
+# 📢 News
 - *2026.03*: &nbsp;🎉🎉 [**New Paper**] Our latest work is accepted by IEEE Transactions on Information Forensics and Security (T-IFS) (CCF A, IF: 8.0). 
 - *2026.02*: &nbsp;🎉🎉 [**Survey**] We released the **first systematic survey** on Cloth-Changing Person Re-Identification. 
 
@@ -112,8 +112,8 @@ I am always open to academic discussions and potential collaborations. Feel free
 
 
 # 📖 Educations
-- *2025.09 - Present*: &nbsp; **Ph.D. in Computer Science and Technology**, Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China.
-- *2022.09 - 2025.06*: &nbsp; **M.S. in Computer Technology**, Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China.
+- *2025.04 - Present*: &nbsp; **Ph.D. in Computer Science and Technology**, Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China.
+- *2022.09 - 2025.04*: &nbsp; **M.S. in Computer Technology**, Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China.
 - *2018.09 - 2022.06*: &nbsp; **B.S. in Network Engineering**, Anhui Agricultural University (AHAU), Hefei, China.
 
 <!--
